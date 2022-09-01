@@ -5,11 +5,9 @@ from openpyxl import Workbook
 from openpyxl.drawing.image import Image
 from openpyxl.utils import get_column_letter
 import glob
-import os
 from natsort import natsorted
 import openpyxl
 import barcode
-import openpyxl
 from barcode.writer import ImageWriter
 
 #function
